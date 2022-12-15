@@ -1,0 +1,8 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe.config
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\bin\Debug\MultiplicarMatrizes.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\WorkSpace\C#\MultiplicarMatrizes\MultiplicarMatrizes\obj\Debug\MultiplicarMatrizes.pdb
